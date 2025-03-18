@@ -1,5 +1,4 @@
-
-<h1>Wassup!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm <img src="./assets/logo.png" width="40" style="vertical-align: middle;">ipul</h1>
+<h1>Wassup!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm <img src="./assets/logo.png" width="40" align="center">ipul</h1>
 
 <p align="center">
   🎯 Full-Stack Engineer | 🌍 Adventurer | 🥁 Music Lover
