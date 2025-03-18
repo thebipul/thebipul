@@ -16,7 +16,7 @@
 ---
 
 <details open>
-  <summary style="font-size:20px; font-weight:bold; color:white;">📘 Projects You Might Like</summary>
+  <summary style="font-size:30px; font-weight:bold; color:white;">📘 Projects You Might Like</summary>
 
   <p align="left">
     <a href="https://github.com/thebipul/nextjs-mantine-starter-template">
@@ -27,7 +27,7 @@
 </details>
 
 <details open>
-  <summary style="font-size:20px; font-weight:bold; color:white;">🛠️ Languages and Tools: </summary>
+  <summary style="font-size:30px; font-weight:bold; color:white;">🛠️ Languages and Tools: </summary>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
